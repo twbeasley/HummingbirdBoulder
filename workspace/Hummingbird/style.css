@@ -1,0 +1,101 @@
+body {
+  background: url('bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+.bio {
+	color: blue;
+	font-size: 30px;
+	font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    font-weight: bold;
+}
+
+.about { 
+	width: 400px;
+	margin: auto; 
+	}
+h1 {
+	font-size: 60px;
+	color: #9d13ad ;
+}
+h2 {
+	font-size: 40px;
+	color: #9d13ad;
+}
+.black {
+	height: 3px;
+	width: auto;
+	background-color: red;
+	border: none;
+}
+.contact {
+	font-size: 30px;
+	color: red ;
+}
+li {
+	display: inline-block;
+	font-size: 30px;
+	width: 100px;
+	font-weight: bold;
+	margin-top: 8px;
+	padding-bottom: 4px;
+	text-align: center;
+	margin: auto;
+	padding-left: 40px;
+}
+.navlink {
+	color: red;
+	text-decoration: none;
+}
+.about-container {
+	text-align: center
+
+}
+.me {
+	height: 250px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: red;
+	margin top: 20px;
+}
+.serve{
+	width: 400px;
+	display: list-item;
+	text-align: center;
+	margin: auto;
+	font-color: white;
+}
+ul.a {
+	list-style-type: circle;
+	display: list-item;
+}
+.service{
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+h5 {
+	font-size: 25px;
+	color: white;
+}
+body {
+  background-color:#222;
+}
+
+.ad1 {
+	max-width: 400px;
+	max-height: 400px;
+}
+.ad2 {
+	max-width: 400px;
+}
+.ad3 {
+	max-width: 400px;
+}
+.ad4{
+	max-width: 500px;
+}
